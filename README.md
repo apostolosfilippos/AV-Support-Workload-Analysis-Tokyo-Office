@@ -10,7 +10,9 @@ For six years, the AV support contract has been staffed by a single technician. 
 Business Question
 
  "Does adding a second AV technician lead to better operational outcomes — and can we prove it with data?"
+ 
 <img width="1533" height="858" alt="january2026" src="https://github.com/user-attachments/assets/67a6e624-cdcb-44e1-a2f4-39509349d221" />
+
 <img width="1983" height="1120" alt="yearly" src="https://github.com/user-attachments/assets/0a6bad2f-a367-45d1-ac19-0d97aecbe9fd" />
 
 
