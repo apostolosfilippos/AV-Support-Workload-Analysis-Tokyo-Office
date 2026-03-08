@@ -1,69 +1,43 @@
 AV Support Workload Analysis — Tokyo Office
 
-- Overview
+A data-driven analysis of Audio-Visual support operations at a global consulting firm's Tokyo office. The project evaluates whether adding a second technician improves operational outcomes using real workload data from 2020–2026.
 
-A data driven analysis of Audio-Visual support operations at a global consulting firm's Tokyo office,
-demonstrating that : two technicians deliver measurably better service quality support compared to a single technician.
+## 📌 Business Question
 
-For six years, the AV support contract has been staffed by a single technician. In January 2025, a second technician was temporarily assigned to collect evidence and evaluate the impact of increased staffing on service quality. This project presents the findings from last years' total supported tasks plus January's 2026 in more detail.
+"Does adding a second AV technician lead to better operational outcomes—and can we prove it with data?"
 
-Business Question
+## 📊 Key Findings
 
- "Does adding a second AV technician lead to better operational outcomes — and can we prove it with data?"
- 
-<img width="1533" height="858" alt="january2026" src="https://github.com/user-attachments/assets/67a6e624-cdcb-44e1-a2f4-39509349d221" />
+**January 2026 (Two-Technician Model)**
+- 42 troubleshooting incidents resolved
+- 35 meeting support requests handled
+- 15 equipment rentals processed
+- 2.37 avg. daily hours on core tasks
 
-<img width="1983" height="1120" alt="yearly" src="https://github.com/user-attachments/assets/0a6bad2f-a367-45d1-ac19-0d97aecbe9fd" />
+**Time Allocation**: Systems Health Checks (49%), Equipment Testing (28%), Setup (23%).
 
+**Year-over-Year Trends (2020–2025)**
+- Troubleshooting: 142 → 244 (+72%, due to proactive daily health checks)
+- Equipment Rentals: 72 → 115 (+60% growth)
+- Meeting Support: 289 → 259 (decrease caused by 3-month renovation)
 
-Data Collection
+## 🔍 Why Two Technicians Matter
 
-All data was manually recorded during every working day of January 2026 (Jan 5–30). The raw activity log captures each task performed throughout the day, including:
+1. **Proactive Maintenance**: Daily health checks across three floors take ~2.4 hours. One technician cannot maintain this schedule while handling ad hoc requests. A second technician enables consistency.
 
-- Date and location (Whole Office, 25th Floor, 24th Floor)
-- Task type: Systems Health Check, Equipment Testing, Equipment Setup
-- Duration in minutes
-- Staffing: performed solo or with the second technician
+2. **Equipment Preparation**: Testing cameras, sound mixers, and audio systems accounts for 51% of core task hours. These cannot be interrupted mid-process—dedicated staff ensures quality.
 
-A separate daily summary tracks "meeting support requests", "troubleshooting incidents", and "equipment rentals".
+3. **Growing Demand**: Equipment rentals up ~60% in three years. Meeting support remains high. Single-person staffing no longer scales.
 
-- Key Findings
+## ⚠️ Data Caveat
 
-January 2026 (Monthly Dashboard)
+January 2026 provides initial evidence of efficiency gains. A six-month comparison (Jan–Jun 2025 vs. 2026) would strengthen conclusions and account for seasonal variation.
 
-Troubleshooting incidents resolved : 42
-Meeting support requests handled : 35
-Equipment rentals processed : 15 
-Avg. daily hours on main tasks : 2.37
+## 🛠️ Tools Used
 
-Time allocation across main task types: Systems Health Checks consumed 49% of main-task hours, followed by Equipment Testing at 28% and Setup at 23%.Health checks, testing, and setup are time-intensive and create scheduling conflicts when handled by a single technician.
+Excel — Data collection & structuring  
+Power BI — Dashboard design & visualization
 
-Location breakdown reveals that the majority of work was performed across the whole office by a single technician,
-while collaborative work with the second technician was concentrated on the 25th floor and 24th floor. Floors requiring dedicated equipment testing and setup.
+![January 2026](https://github.com/user-attachments/assets/67a6e624-cdcb-44e1-a2f4-39509349d221)
 
-Year-over-Year Trends 2020–2025
-
-Troubleshooting : 142 -> 244 in 2025 -> ~64% increase due to systematic daily health checks finding issues proactively
-Equipment Rentals : 72 -> 96 -> 115. Steady annual increase — growing user demand
-Meeting Supports : 289 -> **259** in 2025 | Decrease likely caused by a 3-month meeting rooms renovation (multipurpose room and the main event space)
-
-The rise in troubleshooting is not due to the devices but rather issues being identified and resolved before they affect users, thanks to daily health checks that were not consistently performed under the single technician model.
-
-- Conclusion
-
-The data supports the case for a two-technician model:
-
-1. Proactive maintenance becomes possible. Daily health checks across three floors take ~2.4 hours. With one technician, this competes directly with meeting support and ad hoc requests.
-   A second technician allows health checks to run without exception.
-3. Equipment testing and setup require dedicated time. Testing cameras, sound mixers, clickShares, and audio systems — especially on the 25th and 24th floors — accounted for 51% of main-task hours.
-   These tasks often cannot be paused mid process if we want to ensure they work before using them to events in our office or any client's site.
-5. User demand is growing. Equipment rentals have increased ~60% over three years. Meeting support remains high. The workload has outgrown a single person operation.
-
-- Tools Used
-
-Excel — Raw data collection and structuring
-Power BI — Dashboard design and visualization
-
-- About
-
-This project is part of my data analytics portfolio. It demonstrates real world data collection, analysis, and visualization skills applied to an actual business problem — making the case for operational staffing decisions using evidence rather than assumptions.
+![Yearly Trends](https://github.com/user-attachments/assets/0a6bad2f-a367-45d1-ac19-0d97aecbe9fd)
