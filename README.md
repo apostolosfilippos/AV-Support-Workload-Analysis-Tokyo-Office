@@ -29,9 +29,6 @@ A data-driven analysis of Audio-Visual support operations at a global consulting
 
 3. **Growing Demand**: Equipment rentals up ~60% in three years. Meeting support remains high. Single-person staffing no longer scales.
 
-## ⚠️ Data Caveat
-
-January 2026 provides initial evidence of efficiency gains. A six-month comparison (Jan–Jun 2025 vs. 2026) would strengthen conclusions and account for seasonal variation.
 
 ## 🛠️ Tools Used
 
