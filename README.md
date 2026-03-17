@@ -11,9 +11,9 @@ For six years, the AV support contract has been staffed by a single technician. 
 
 "Does adding a second AV technician lead to better operational outcomes — and can we prove it with data?"
 
-![january2026](https://github.com/apostolosfilippos/AV-Support-Workload-Analysis-Tokyo-Office/blob/main/images/january2026.png)
-![january2026](https://github.com/apostolosfilippos/AV-Support-Workload-Analysis-Tokyo-Office/blob/main/images/february2026.png)
-![january2026](https://github.com/apostolosfilippos/AV-Support-Workload-Analysis-Tokyo-Office/blob/main/images/workloadgrowth.png)
+![january2026](https://github.com/apostolosfilippos/AV-Support-Workload-Analysis-Tokyo-Office/blob/main/images/january_2026.png)
+![january2026](https://github.com/apostolosfilippos/AV-Support-Workload-Analysis-Tokyo-Office/blob/main/images/february_2026.png)
+![january2026](https://github.com/apostolosfilippos/AV-Support-Workload-Analysis-Tokyo-Office/blob/main/images/workload_growth.png)
 
  
 
