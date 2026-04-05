@@ -52,7 +52,7 @@ The rise in troubleshooting is not due to the devices but rather issues being id
 
 ## Conclusion
 
-The data supports the case for a two-technician model:
+The data supports the case for a two-technician model :
 
 1. Proactive maintenance becomes possible. Daily health checks across three floors take ~2.4 hours. With one technician, this competes directly with meeting support and ad hoc requests.
    A second technician allows health checks to run without exception.
